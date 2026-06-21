@@ -4,11 +4,11 @@ Computer Science Engineering graduate (2026) passionate about Software Developme
 
 ## About Me
 
-- 🎓 Computer Science Engineering graduate, St Joseph Engineering College
-- 💻 Interested in Software Engineer and Full Stack Developer roles
-- 🌱 Strong foundation in Java, JavaScript, Python, Data Structures, and Web Development
-- 🚀 Experience building full-stack applications using the MERN stack and REST APIs
-- 📚 Currently learning Spring Boot and strengthening Data Structures & Algorithms
+- Computer Science Engineering graduate, St Joseph Engineering College
+- Interested in Software Engineer and Full Stack Developer roles
+- Strong foundation in Java, JavaScript, Python, Data Structures, and Web Development
+- Experience building full-stack applications using the MERN stack and REST APIs
+- Currently learning Spring Boot and strengthening Data Structures & Algorithms
 
 ## Technical Skills
 
